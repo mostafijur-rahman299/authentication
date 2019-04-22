@@ -1,2 +1,2 @@
-# login_projects
-django login_first so excited
+# Registration and login system
+django simple Registration and login system
